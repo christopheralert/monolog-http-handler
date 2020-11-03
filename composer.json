@@ -22,7 +22,7 @@
         "php-http/httplug": "^2.0",
         "php-http/message-factory": "^1.0",
         "php-http/discovery": "^1.0",
-        "monolog/monolog": "^1.23"
+        "monolog/monolog": "^2.0"
     },
     "require-dev": {
         "php-http/mock-client": "^1.0",
